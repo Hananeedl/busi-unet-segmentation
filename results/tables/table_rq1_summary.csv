@@ -1,0 +1,5 @@
+,dice,dice,iou,iou
+,mean,std,mean,std
+model,,,,
+AttUNet,0.7297,0.0395,0.5808,0.0464
+UNet,0.719,0.0485,0.5686,0.0568
